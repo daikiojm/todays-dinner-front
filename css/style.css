@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/*
+今日の晩ご飯
+style.css
+*/
+
+
+body{
+	background-color: #FFFFD5;
+}
+
+
+#logo{
+	margin-top: 30px;
+	text-align: center;
+}
+
+
+.btn-group{
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+#sozai{
+	text-align: center;
+}
+
+#content{
+	margin-bottom: 50px;
+	padding: 10px 20px 20px 20px;
+	background-color: #FFFFEE;
+	border-radius: 20px;
+}
+
+
+.result{
+	margin-top: 20px;
+}
+
+.img{
+	height: 100%;
+	padding: 5px;
+}
+
+.img img{
+	max-height: 300px;
+}
+
+.cap{
+	height: 100%;
+}
+
+.recipetitle{
+	margin-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #DFD288;
+}
+
+#main{
+	margin-top: 30px;
+}
+
+
+#tiles li{
+	list-style-type: none;
+	display: block;
+}
+
+#footer{
+	height: 100px;
+	background-color: #DFD288;
+	text-align: center;
+
+}
+
+.copy{
+	padding-top: 20px;
+}
+
+.his{
+	height: 100px;
+}
+
+#submit{
+	margin-top: 10px;
+}
+
+
+
